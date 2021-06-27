@@ -1,6 +1,6 @@
 # Powering-up-and-controlling-LED-Eyes
 
-This is a circuit to power and control two LEDs that surve as robot eyes. the circuit consists of two parts: an elctrical circuit to regulate the voltage from the source, and an electronic circuit to help saving power via a procecss called PWM(Pulse Width Modulation).
+This is a circuit to power and control two LEDs that serve as robot eyes. the circuit consists of two parts: an elctrical circuit to regulate the voltage from the source, and an electronic circuit to help saving power via a procecss called PWM(Pulse Width Modulation).
 
 ## Repository Content
 * Circuit Diagram of the whole circuit
