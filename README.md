@@ -21,4 +21,4 @@ After reducing the voltage to 5 v, a NPN transistor is added to serve as a switc
 
 ![Complete Circuit](https://github.com/AbdullahAlshambri/Powering-up-and-controlling-LED-Eyes/blob/main/Circuit%20Diagrams/Circuit%20Diagram.png)
 
-Finally, the two circuits are added to two on-series LEDs to save power(one current) and to devide the regulated voltage. 
+Finally, the two circuits are added to two **on-series** LEDs to save power(one current) and to devide the regulated voltage. 
